@@ -1,6 +1,7 @@
 #ifndef _hls_parser_h_
 #define _hls_parser_h_
 
+#include <stddef.h>
 #include <stdint.h>
 
 #ifdef __cplusplus
